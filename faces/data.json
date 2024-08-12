@@ -1,0 +1,46 @@
+[
+    {
+        "id": "wRMO80ACbQ",
+        "picture": "faces/wRMO80ACbQ.jpg",
+        "name": "Richa",
+        "relation": "Friend",
+        "memory": "Richa is my friend. She is a hardware developer.",
+        "log_ids": [
+            "ctx4xk",
+            "r5SG9e",
+            "IITX8u"
+        ]
+    },
+    {
+        "id": "a1b2c3d4",
+        "picture": "faces/a1b2c3d4.jpg",
+        "name": "Dev",
+        "relation": "Friend",
+        "memory": "Dev is my friend from college. We met during our freshman year and have stayed in touch ever since.",
+        "log_ids": []
+    },
+    {
+        "id": "e5f6g7h8",
+        "picture": "faces/e5f6g7h8.jpg",
+        "name": "Bob",
+        "relation": "Colleague",
+        "memory": "Bob is a colleague from my previous job. We worked together on several projects and shared many great moments.",
+        "log_ids": []
+    },
+    {
+        "id": "i9j0k1l2",
+        "picture": "faces/i9j0k1l2.jpg",
+        "name": "Carol",
+        "relation": "Family",
+        "memory": "Carol is my cousin. We grew up together and spent many holidays and vacations as a family.",
+        "log_ids": []
+    },
+    {
+        "id": "m3n4o5p6",
+        "picture": "faces/m3n4o5p6.jpg",
+        "name": "David",
+        "relation": "Neighbor",
+        "memory": "David is my neighbor. We often have friendly chats and help each other with various tasks around the neighborhood.",
+        "log_ids": []
+    }
+]
